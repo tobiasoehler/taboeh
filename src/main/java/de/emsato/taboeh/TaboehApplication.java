@@ -1,0 +1,13 @@
+package de.emsato.taboeh;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class TaboehApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(TaboehApplication.class, args);
+	}
+
+}
