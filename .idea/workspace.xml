@@ -5,11 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42f11b3d-e781-4133-b480-909d4487c814" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/colors.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/common.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/fragments/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/fragments/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/fragments/navbar_start.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/login.html" afterDir="false" />
@@ -94,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658350201039</updated>
-      <workItem from="1658350204972" duration="1465000" />
+      <workItem from="1658350204972" duration="1565000" />
     </task>
     <servers />
   </component>
